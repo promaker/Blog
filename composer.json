@@ -1,0 +1,15 @@
+{
+    "name": "promaker/blog",
+    "description": "Paquete de Blog de Promaker",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ggallohernandez",
+            "email": "ggallohernandez@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
